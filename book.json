@@ -1,9 +1,9 @@
 {
     "plugins": ["hints"],
     "variables": {
-	    "guid": "1234",
-	    "hostname": "hostname_value",
-	    "suffix": "suffix_value"
+	    "guid": "e535",
+	    "hostname": "threescale-e535.generic.opentlc.com",
+	    "suffix": "apps-e535.generic.opentlc.com"
     },
     "styles":{
         "website": "styles/images.css"
